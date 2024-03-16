@@ -1,4 +1,4 @@
-Welcome to the Task Estimation Handbook for Scrum Teams. This handbook aims to provide practical guidelines and insights into the task estimation process in Scrum. Task estimation plays a crucial role in planning and delivering successful sprints, and it is essential for teams to understand the best practices and common pitfalls associated with it.
+At this small, yet fast moving startup that is in the dynamic world of software development, where innovation breeds success, we have recently come across a number of individuals on the team working incoherently with one another leading to a very unpredictable progress with projects and a lot of defects making it into production. We accept responsibility for up to now allowing a laid-back approach and delegation, we have taken the task of creating a new handbook into our arms, a handbook that aims to serve as a beacon, guiding both existing and new members of our team towards a standardised practice that will no doubt bring our current projects back on track and ensure no future project is delayed.
 
 Structure of the Document:
 
