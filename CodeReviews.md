@@ -1,0 +1,6 @@
+First off, we will delve into the world of code reviews, exploring its purpose, methodologies, and impact within software development practices. We'll start by breaking down the idea of code reviews and emphasizing its importance as a vital step in the development process. We'll then analyze the advantages and disadvantages of this approach, highlighting its possible advantages and disadvantages in terms of promoting code quality, teamwork, and project success as a whole.
+
+“Code reviews are methodical assessments of code designed to identify bugs, increase code quality, and help developers learn the source code.”
+
+A code review is a crucial stage in the software development process that follows coding completion. It allows a developer to acquire a second opinion on the solution and implementation before merging it into the main branch or an upstream branch like a feature branch.
+Creating a robust code review procedure stops unstable code from being shipped to clients and lays the groundwork for ongoing development. To ensure that every piece of code has been reviewed by a team member and to improve code quality, code reviews should be included into the workflow of software development teams.
