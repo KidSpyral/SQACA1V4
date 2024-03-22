@@ -5,7 +5,7 @@ In the last part of this handbook, we will be discussing Agile Testing and we’
 Through research we have the best practices for agile testing.
 
 <center>
-  <img src="New-Banner-Agile-1.jpg" alt="Agile Banner">
+  <img src="New-Banner-Agile.jpg" alt="Agile Banner">
 </center>
 
 ## Common Themes
