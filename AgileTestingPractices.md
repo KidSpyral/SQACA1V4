@@ -4,9 +4,7 @@
 In the last part of this handbook, we will be discussing Agile Testing and we’ll mention some good agile testing practices that we expect all current and future employees to follow. Firstly, we will discuss what agile testing is and why it is important. Agile testing is a methodology that helps developers test their code continuously and rapidly and in agile testing, there are various roles and responsibilities of different team members. The main principles include: early and continuous testing, whole team approach, frequent deliveries, close collaboration, customer involvement, working software and flexible approach. All this is important because it helps to ensure that software meets the needs of the customer (n.d).
 Through research we have the best practices for agile testing.
 
-<center>
-  <img src="New-Banner-Agile.jpg" alt="Agile Banner">
-</center>
+![alt text](New-Banner-Agile.jpg)
 
 ## Common Themes
 
