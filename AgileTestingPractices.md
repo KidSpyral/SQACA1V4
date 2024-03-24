@@ -38,6 +38,14 @@ A cooperative method of developing software, behavior-driven development (BDD) p
 #### Resistance to Change
 Agile testing frequently faces resistance since it can be difficult to break old habits and viewpoints. We have an individual, based on first-hand experience and narrative, who during a pivotal moment in their career occurred when they managed an engineering team that resisted automated testing, perceiving it as solely within the domain of QA. However, after insisting on its implementation and facing initial pushback, a notable transformation ensued. Not only did code quality improve, but even the most steadfast opponent of automated testing became its most fervent advocate in the face of failing tests. This experience highlighted the transformative power of embracing change and establishing new patterns. Despite the challenges of transition, the long-term benefits in efficiency and quality far outweighed the initial discomfort, prompting reflection on why such practices weren't adopted sooner.
 
+
+#### Culture
+ Any methodology will only work if the culture cultivates it. That means support from upper management & buy-in from the key stakeholders. Anything less will result in a sub-par implementation, which often ends up getting the methodology / process scrapped altogether. I’ve been in places where neither the buy in or the support were there. The organization ended up thinking Agile was the issue, but in reality it was the culture.
+ 
+
+ #### Industry
+ Some industries can never be fully 100% agile. Mostly for two reasons: regulations and cost. Industries in the heavily regulated space and industries where margins are razor thin cannot afford to adopt the “fail early, fail often” motto when it comes to projects. It’s “measure twice, cut once”. In some of my previous positions, I’ve had to run projects where everything has to be precisely planned due to industry downturns & margin level (very small budget variance allowed), and where everything has to have corresponding processes and documented for compliance.
+
 ## References:
 
 https://www.atlassian.com/agile/software-development/testing
@@ -45,4 +53,8 @@ https://www.atlassian.com/agile/software-development/testing
 https://www.opentext.com/what-is/agile-testing
 
 https://www.kualitee.com/blog/agile-testing/qa-process-in-agile/
+
+https://www.globalapptesting.com/the-ultimate-guide-to-agile-testing
+
+https://www.quora.com/What-challenges-have-you-faced-when-integrating-Agile
 
