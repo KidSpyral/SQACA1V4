@@ -1,33 +1,74 @@
-At this small, yet fast moving startup that is in the dynamic world of software development, where innovation breeds success, we have recently come across a number of individuals on the team working incoherently with one another leading to a very unpredictable progress with projects and a lot of defects making it into production. We accept responsibility for up to now allowing a laid-back approach and delegation, we have taken the task of creating a new handbook into our arms, a handbook that aims to serve as a beacon, guiding both existing and new members of our team towards a standardised practice that will no doubt bring our current projects back on track and ensure no future project is delayed.
+# Code Reviews
 
-Structure of the Document:
+## Introduction
+In the First  part of this handbook, we will be discussing Task Estimation Scrum and we’ll mention some good Task Estimation Scrum  practices that we expect all current and future employees to follow. Firstly, we will discuss what Task Estimation Scrum is and why it is important.Scrum as a way to get work done as a team in small pieces at a time, with continuous experimentation and feedback loops along the way to learn and improve as you go. Scrum helps people and teams deliver value incrementally in a collaborative way. As an agile framework, Scrum provides just enough structure for people and teams to integrate into how they work, while adding the right practices to optimize for their specific needs. 
 
-Introduction to Task Estimation: Brief overview of the importance of task estimation in Scrum. Guidelines for Task Estimation: Key principles and practices for effective task estimation. Common Pitfalls to Avoid: Highlighting common mistakes and challenges in task estimation. Reference Articles: Links to five quality resources providing personal experiences and insights into task estimation in Scrum. Introduction to Task Estimation:
 
-Task estimation is the process of determining the effort required to complete a specific task or user story within a sprint. In Scrum, accurate task estimation helps teams plan their work effectively, set realistic expectations, and deliver value to stakeholders within defined timelines.
 
-Guidelines for Task Estimation:
 
-Use Relative Estimation: Instead of absolute estimates, use relative estimation techniques such as Planning Poker or T-Shirt Sizing. This allows teams to focus on the relative complexity of tasks rather than exact time estimates.
+<center>
+  <img src="scrum-framework-9.29.23.png	" alt="Task Estimation Scrum Banner ">
+</center>
 
-Involve the Whole Team: Task estimation should be a collaborative effort involving all team members. Different perspectives and expertise can lead to more accurate estimates.
+## Common Themes
 
-Break Down Tasks: Break down user stories into smaller, manageable tasks to facilitate more accurate estimation. Smaller tasks are easier to estimate and track progress effectively.
+•	Relative Estimates (Story Point Estimates);
+ 
 
-Consider Historical Data: Use historical data from previous sprints to inform task estimation. Analyzing past performance can help teams identify patterns and improve estimation accuracy.
+•	Calibration and Refinement
 
-Update Estimates Regularly: Task estimates should be dynamic and updated regularly based on new information and progress made during the sprint. Regularly reassessing estimates ensures alignment with the team's current understanding and capacity.
+•   Estimation Criteria:
 
-Common Pitfalls to Avoid:
+•   Avoiding Obsession with Exact Estimates:
 
-Overconfidence in Estimates: Avoid overconfidence in task estimates, as it can lead to underestimation and missed deadlines. Encourage teams to be realistic and conservative in their estimates.
 
-Ignoring Dependencies: Failure to consider dependencies between tasks can result in inaccurate estimates and delays in delivery. Teams should identify and account for dependencies during estimation.
 
-Ignoring Uncertainty: Task estimation involves inherent uncertainty, and teams should acknowledge and factor in this uncertainty when making estimates. Avoiding or underestimating uncertainty can lead to inaccurate estimates and project delays.
 
-Ignoring Velocity: Ignoring the team's velocity, or the amount of work completed in previous sprints, can lead to unrealistic expectations and overcommitment. Consider the team's velocity when estimating the capacity for upcoming sprints.
 
-Reference Articles:
 
-"The Challenges of Task Estimation in Agile Projects" by Scrum.org. "Effective Task Estimation Techniques for Agile Teams" by Agile Alliance. "7 Deadly Sins of Agile Estimation and Planning" by Forbes Technology Council. "Task Estimation: How to Get Better at Estimating Your Work" by Atlassian. "Why Is It So Hard to Estimate Time?" by InfoQ.
+## Relative Estimates (Story Point Estimates) 
+## Challenges 
+Challenge: Achieving a common understanding among team members about the size and complexity of work items can be quite intricate.
+Explanation: When estimating tasks, team members must align their mental models. However, different perspectives, experiences, and interpretations can lead to discrepancies. For instance, one developer might perceive a user story as straightforward, while another might see hidden complexities.
+Impact: Without shared understanding, the team may underestimate or overestimate tasks, leading to planning inaccuracies and potential delays.
+### Challenges
+
+## Calibration and Refinement
+Challenge: Regularly calibrating estimation practices and refining them can be time-consuming and resource-intensive.
+Explanation: Teams need to periodically review their estimation techniques, adjust them based on historical data, and ensure consistency across Sprints. Calibration involves fine-tuning the team’s estimation process to account for changes in team dynamics, technology, and domain knowledge.
+Impact: Inaccurate estimations due to lack of calibration can lead to missed deadlines or inefficient resource allocation.
+
+
+### Challenges
+### Estimation Criteria
+
+Challenge: Defining clear and consistent criteria for estimation can be challenging.
+Explanation: Teams must decide whether to estimate based on effort (e.g., hours, days), complexity (e.g., Fibonacci sequence), or other factors (e.g., story points). Choosing the right criteria impacts the accuracy of estimates.
+Impact: Inconsistent criteria can lead to confusion, making it difficult to compare estimates across different tasks.
+
+
+## Avoiding Obsession with Exact Estimates
+### Challenges
+
+Challenge: Striking a balance between predictability and adaptability is crucial.
+Explanation: While estimates are essential for planning and creating a predictable cadence, teams should avoid fixating on exact numbers. Agile principles emphasize adaptability, and rigid adherence to precise estimates can hinder flexibility.
+Impact: Focusing too much on precision may lead to unnecessary stress, micromanagement, and missed opportunities for innovation.
+
+
+
+### Challenges
+
+## Personal Experiences
+#### Lack of Documentation
+
+
+## References:
+https://www.scrum.org/resources/blog/what-scrum-says-about-estimates
+
+https://blog.scrumstudy.com/how-do-scrum-teams-estimate-tasks-in-a-project/
+
+https://www.scrumstudy.com/article/task-estimation-in-a-scrum-project
+
+https://www.scrum.org/resources/blog/when-will-we-get-there-how-estimate-scrum
+
+
