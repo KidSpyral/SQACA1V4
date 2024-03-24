@@ -1,22 +1,52 @@
-Code reviews play a pivotal role in modern software development practices, serving as a systematic method to assess code quality, identify bugs, and promote knowledge sharing among team members. By incorporating code reviews into the development workflow, teams can enhance collaboration, mitigate risks, and ultimately deliver higher-quality software to users.
+# Code Reviews
 
-A code review is a structured evaluation process where developers scrutinize each other's code before it is merged into the main codebase or deployed to production. This practice aims to catch defects early in the development cycle, ensuring that only high-quality, stable code reaches end-users. Additionally, code reviews provide an opportunity for developers to share insights, learn from each other, and maintain consistency in coding standards across the project.
+## Introduction
+In the Second  part of this handbook, we will be discussing Code Reviews and we’ll mention some good code review  practices that we expect all current and future employees to follow. Firstly, we will discuss what code reviews is and why it is important.Code reviews are an essential aspect of the software development lifecycle. It involves the examination of a programmer’s code by their peers to identify and rectify errors, improve code quality and ensure compliance with coding standards. This process helps maintain code integrity and leads to the creation of robust, reliable and efficient software.Code reviwing is important because  developers scrutinise each other’s code, looking for potential bugs, performance issues and adherence to best practices. This collaborative approach encourages knowledge sharing and helps maintain a high level of code quality throughout the project.
 
-One of the primary advantages of code reviews is their ability to improve code quality. Through peer scrutiny, developers can identify logical errors, potential performance bottlenecks, and security vulnerabilities that may have been overlooked during the initial development phase. This collaborative feedback loop fosters a culture of continuous improvement, where developers strive to write cleaner, more maintainable code.
+<center>
+  <img src="agile banner.jpg" alt="Code Review Banner ">
+</center>
 
-Moreover, code reviews facilitate knowledge sharing and skill development within the team. By reviewing each other's code, developers gain exposure to different coding styles, design patterns, and best practices. This cross-pollination of ideas not only improves individual proficiency but also strengthens the collective expertise of the team.
+## Common Themes
 
-However, despite the numerous benefits, code reviews are not without challenges. One common concern is the potential for friction or tension among team members during the review process. To mitigate this risk, it's essential to cultivate a culture of constructive feedback and mutual respect within the team.
+•	Following Coding Standards         
 
-Furthermore, code reviews can sometimes introduce delays in the development timeline, especially if reviewers are overloaded with other tasks or if the feedback loop becomes prolonged. To address this issue, teams should establish clear guidelines for the timing and frequency of code reviews, ensuring that they remain an integral part of the development process without impeding progress.
+•	Scheduling and Allocating Time
 
-In conclusion, code reviews are a cornerstone of effective software development, providing a mechanism for improving code quality, fostering collaboration, and promoting continuous learning. By embracing code reviews as a standard practice and leveraging them effectively, teams can accelerate their development cycles, minimize defects, and deliver exceptional software products to their customers.
+•	Setting Clear Objectives
 
-References
-"The Art of Code Review" by Trisha Gee - This article offers insights into the benefits of code reviews and provides practical tips for conducting effective reviews.
-"Best Practices for Peer Code Review" by SmartBear - SmartBear's guide outlines best practices for peer code reviews, covering topics such as reviewer roles, feedback strategies, and tooling.
-"Code Review Best Practices" by GitLab - GitLab's documentation explores various aspects of code review best practices, including workflow optimization, automation, and fostering a positive review culture.
-"Mastering the Code Review Process" by Atlassian - Atlassian's blog post discusses the importance of code reviews in software development and provides actionable tips for maximizing their effectiveness.
-"Code Review Best Practices" by ThoughtWorks - This ThoughtWorks article delves into the nuances of code review best practices, touching on topics such as code review meetings, code review checklists, and continuous improvement strategies.
+•	Documentation quality
+
+•	Communication
+
+
+## Following Coding Standards 
+
+Another challenge in code review is how to ensure that the code follows consistent standards and best practices, such as coding style, naming conventions, documentation, testing, and security. To overcome this challenge, you should establish and document the code standards and best practices for your project or team and make sure everyone is aware of them. Additionally, you can use tools like code linters, style guides, or checklists to help enforce and verify the standards. Furthermore, review the code against the standards and best practices and point out any deviations or violations. Provide suggestions on how to fix or improve the code according to the standards; tools like code analyzers, code formatters, or code quality metrics can help
+### Challenges
+
+## Scheduling and Allocating Time
+Time constraints can lead to pressure and stress for both reviewers and developers. To address this challenge, prioritize and plan the code review tasks, allocating more time and attention to important, urgent, or risky changes. Utilize tools like code review platforms, issue trackers, or project management tools for organization and tracking. Additionally, encourage developers to submit small, incremental, and well-defined code changes rather than large, monolithic ones.
+
+
+### Challenges
+### Communication issues
+
+One of the main challenges in code review is how to communicate effectively with the developers, especially when giving feedback or suggesting changes. Poor communication can lead to misunderstandings, conflicts, or demotivation, so to ensure successful communication, you should adhere to some basic principles. Respect and constructive criticism should be the foundation of any code review, so avoid personal attacks, sarcasm, or harsh criticism. Additionally, be as specific and clear as possible when giving feedback and suggestions; explain your reasoning and provide examples or references if possible.
+
+
+
+### Challenges
+
+## Personal Experiences
+#### Lack of Documentation
+The most common issue I have seen is lack of documentation and comments with the code. Each developer has their own way of implementing the logic and lack of docs & comments lead to confusion for the reviewer if they had a different implementation in mind.  And hence both reviewer and developer has to put in more effort and time to clear out the doubts and confusion. There are a lot of AI tools available today that would generate documentation based on your code which we can use in day to day life to mitigate this problem.
+
+## References:
+https://codeinstitute.net/ie/blog/the-importance-of-code-reviews/?utm_term=&utm_campaign=CI+-+IRL+-+Search+-+NB&utm_source=adwords&utm_medium=ppc&hsa_acc=8983321581&hsa_cam=14237255693&hsa_grp=137795022472&hsa_ad=636590391770&hsa_src=g&hsa_tgt=aud-315575994125%3Adsa-41848713900&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAjwnv-vBhBdEiwABCYQAyYTnEnQKj336e5hVL49Vq6dn-WZu8tViYF_Kh0soEY89dJUyYoZOhoCzWMQAvD_BwE
+
+https://www.linkedin.com/advice/3/what-most-common-challenges-code-review-how-can-uomrc
+
+https://testfort.com/blog/what-is-code-review-in-software-testing
 
 
