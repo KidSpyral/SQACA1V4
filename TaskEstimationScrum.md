@@ -28,11 +28,10 @@ In the First  part of this handbook, we will be discussing Task Estimation Scrum
 ## Relative Estimates (Story Point Estimates) 
 Relative Story Point Estimation uses a “unit-less number” to estimate user stories by grouping requirements based on equivalent difficulty. In simple terms, it is a way of sizing user stories relative to each other.
 
-## Challenges 
+### Challenges 
 Challenge: Achieving a common understanding among team members about the size and complexity of work items can be quite intricate.
 Explanation: When estimating tasks, team members must align their mental models. However, different perspectives, experiences, and interpretations can lead to discrepancies. For instance, one developer might perceive a user story as straightforward, while another might see hidden complexities.
 Impact: Without shared understanding, the team may underestimate or overestimate tasks, leading to planning inaccuracies and potential delays.
-### Challenges
 
 ## Calibration and Refinement
 Solution testing and refinement is a crucial stage in the innovation process, where you validate and improve your ideas based on feedback, data, and experimentation.
@@ -44,7 +43,7 @@ Impact: Inaccurate estimations due to lack of calibration can lead to missed dea
 
 
 
-### Estimation Criteria
+## Estimation Criteria
 Criteria that help project managers estimate the size, effort, duration, cost, or value of a project or its components. Estimation metrics can be based on historical data, expert judgment, analogy, or algorithm.
 
 ### Challenges
