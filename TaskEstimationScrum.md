@@ -12,14 +12,13 @@ In the First  part of this handbook, we will be discussing Task Estimation Scrum
 
 ## Common Themes
 
-•	Relative Estimates (Story Point Estimates);
- 
+•	Relative Estimates (Story Point Estimates)
 
 •	Calibration and Refinement
 
-•   Estimation Criteria:
+•   Estimation Criteria
 
-•   Avoiding Obsession with Exact Estimates:
+•   Avoiding Obsession with Exact Estimates
 
 
 
@@ -27,6 +26,8 @@ In the First  part of this handbook, we will be discussing Task Estimation Scrum
 
 
 ## Relative Estimates (Story Point Estimates) 
+Relative Story Point Estimation uses a “unit-less number” to estimate user stories by grouping requirements based on equivalent difficulty. In simple terms, it is a way of sizing user stories relative to each other.
+
 ## Challenges 
 Challenge: Achieving a common understanding among team members about the size and complexity of work items can be quite intricate.
 Explanation: When estimating tasks, team members must align their mental models. However, different perspectives, experiences, and interpretations can lead to discrepancies. For instance, one developer might perceive a user story as straightforward, while another might see hidden complexities.
@@ -34,20 +35,26 @@ Impact: Without shared understanding, the team may underestimate or overestimate
 ### Challenges
 
 ## Calibration and Refinement
+Solution testing and refinement is a crucial stage in the innovation process, where you validate and improve your ideas based on feedback, data, and experimentation.
+
+### Challenges
 Challenge: Regularly calibrating estimation practices and refining them can be time-consuming and resource-intensive.
 Explanation: Teams need to periodically review their estimation techniques, adjust them based on historical data, and ensure consistency across Sprints. Calibration involves fine-tuning the team’s estimation process to account for changes in team dynamics, technology, and domain knowledge.
 Impact: Inaccurate estimations due to lack of calibration can lead to missed deadlines or inefficient resource allocation.
 
 
-### Challenges
-### Estimation Criteria
 
+### Estimation Criteria
+Criteria that help project managers estimate the size, effort, duration, cost, or value of a project or its components. Estimation metrics can be based on historical data, expert judgment, analogy, or algorithm.
+
+### Challenges
 Challenge: Defining clear and consistent criteria for estimation can be challenging.
 Explanation: Teams must decide whether to estimate based on effort (e.g., hours, days), complexity (e.g., Fibonacci sequence), or other factors (e.g., story points). Choosing the right criteria impacts the accuracy of estimates.
 Impact: Inconsistent criteria can lead to confusion, making it difficult to compare estimates across different tasks.
 
 
 ## Avoiding Obsession with Exact Estimates
+Instead of fixating on pinpoint accuracy, focus on providing realistic and flexible estimates that allow for adaptation to changing requirements and unforeseen challenges. Emphasize communication, collaboration, and iterative improvement to navigate uncertainties effectively and deliver successful outcomes.
 ### Challenges
 
 Challenge: Striking a balance between predictability and adaptability is crucial.
@@ -55,20 +62,18 @@ Explanation: While estimates are essential for planning and creating a predictab
 Impact: Focusing too much on precision may lead to unnecessary stress, micromanagement, and missed opportunities for innovation.
 
 
-
-### Challenges
-
 ## Personal Experiences
 #### Lack of Documentation
 
 
 ## References:
-https://www.scrum.org/resources/blog/what-scrum-says-about-estimates
+What Scrum says about estimates. (2024). Retrieved from https://www.scrum.org/resources/blog/what-scrum-says-about-estimates 
 
-https://blog.scrumstudy.com/how-do-scrum-teams-estimate-tasks-in-a-project/
+How do scrum teams estimate tasks in a project? (2024). Retrieved from https://blog.scrumstudy.com/how-do-scrum-teams-estimate-tasks-in-a-project/ 
 
-https://www.scrumstudy.com/article/task-estimation-in-a-scrum-project
+Articles. (2024). Retrieved from https://www.scrumstudy.com/article/task-estimation-in-a-scrum-project 
 
-https://www.scrum.org/resources/blog/when-will-we-get-there-how-estimate-scrum
+When will we get there?  how to estimate in Scrum. (n.d.-b). Retrieved from https://www.scrum.org/resources/blog/when-will-we-get-there-how-estimate-scrum 
 
+Project Management . (2024). How do you select estimation metrics for various project types? Retrieved from https://www.linkedin.com/advice/1/how-do-you-select-estimation-metrics-various-ufrdf 
 
