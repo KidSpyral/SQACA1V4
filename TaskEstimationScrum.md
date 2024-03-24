@@ -1,4 +1,4 @@
-# Code Reviews
+# Task Estimation Scrum
 
 ## Introduction
 In the First  part of this handbook, we will be discussing Task Estimation Scrum and we’ll mention some good Task Estimation Scrum  practices that we expect all current and future employees to follow. Firstly, we will discuss what Task Estimation Scrum is and why it is important.Scrum as a way to get work done as a team in small pieces at a time, with continuous experimentation and feedback loops along the way to learn and improve as you go. Scrum helps people and teams deliver value incrementally in a collaborative way. As an agile framework, Scrum provides just enough structure for people and teams to integrate into how they work, while adding the right practices to optimize for their specific needs. 
@@ -7,7 +7,7 @@ In the First  part of this handbook, we will be discussing Task Estimation Scrum
 
 
 <center>
-  <img src="scrum-framework-9.29.23.png	" alt="Task Estimation Scrum Banner ">
+  <img src= "TaskEstimationScrum.jng.png" alt="Task Estimation Scrum Banner ">
 </center>
 
 ## Common Themes
