@@ -4,7 +4,7 @@
 In the Second  part of this handbook, we will be discussing Code Reviews and we’ll mention some good code review  practices that we expect all current and future employees to follow. Firstly, we will discuss what code reviews is and why it is important.Code reviews are an essential aspect of the software development lifecycle. It involves the examination of a programmer’s code by their peers to identify and rectify errors, improve code quality and ensure compliance with coding standards. This process helps maintain code integrity and leads to the creation of robust, reliable and efficient software.Code reviwing is important because  developers scrutinise each other’s code, looking for potential bugs, performance issues and adherence to best practices. This collaborative approach encourages knowledge sharing and helps maintain a high level of code quality throughout the project.
 
 <center>
-  <img src="agile banner.jpg" alt="Code Review Banner ">
+  <img src="CodeReview.jpg.png" alt="Code Review Banner ">
 </center>
 
 ## Common Themes
