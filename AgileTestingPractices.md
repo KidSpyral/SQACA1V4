@@ -41,7 +41,7 @@ A cooperative method of developing software, behavior-driven development (BDD) p
 ### Challenges
 • One of the primary challenges in adopting BDD is resistance to change. Teams may be accustomed to traditional development methods, and introducing a new paradigm requires a shift in mindset.
 
-• BDD promotes collaboration between technical and non-technical team members, emphasizing shared understanding and communication. However, achieving this level of collaboration can be challenging, especially when team members are accustomed to working in silos
+• BDD promotes collaboration between technical and non-technical team members, emphasizing shared understanding and communication. However, achieving this level of collaboration can be challenging, especially when team members are accustomed to working in silos.
 
 ## Personal Experiences
 #### Resistance to Change
