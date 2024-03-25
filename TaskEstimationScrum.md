@@ -62,7 +62,13 @@ Impact: Focusing too much on precision may lead to unnecessary stress, micromana
 
 
 ## Personal Experiences
-#### Lack of Documentation
+Estimation in Scrum isn’t a straightforward science, it’s more of an art. It involves making educated guesses, setting targeted Sprint goals, and staying flexible. As we navigate this labyrinth, we encounter the unpredictability of creative work. While some tasks are predictable, each product development journey remains unique. Estimation isn’t just about numbers, it’s about grasping the unknowns and being prepared for twists and turns.
+In my experience, the key takeaways are:
+Scrum Team’s Estimation Challenge: Acknowledge that estimation isn’t a one-size-fits-all process. Different teams may approach it differently, and that’s okay.
+Sizing vs. Estimation: Understand the distinction between sizing (assessing the relative effort) and traditional estimation (assigning specific numbers). Scrum leans more toward sizing.
+Embrace Unpredictability: Creative work can’t always be neatly quantified. Be ready for surprises and adapt as needed.
+Realistic Sprint Planning: Set realistic goals for each Sprint. Flexibility and adaptability are your allies.
+Remember, in Scrum, it’s not about reaching a precise destination; it’s about navigating the journey with agility and adaptability. If you find Sprint estimation challenging, seek guidance and stay open to learning. You don’t just need agility, you need Naked Agility1
 
 
 ## References:
@@ -76,3 +82,4 @@ When will we get there?  how to estimate in Scrum. (n.d.-b). Retrieved from htt
 
 Project Management . (2024). How do you select estimation metrics for various project types? Retrieved from https://www.linkedin.com/advice/1/how-do-you-select-estimation-metrics-various-ufrdf 
 
+Hishelwood, M. (2023). Sprint estimation: A guide to planning in Scrum. Retrieved from https://www.scrum.org/resources/blog/sprint-estimation-guide-planning-scrum 
